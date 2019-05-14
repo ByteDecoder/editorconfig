@@ -231,6 +231,7 @@ dotnet_naming_symbols.all_members.applicable_kinds = *
 dotnet_naming_style.pascal_case_style.capitalization = pascal_case
 
 # Meziantou Analyzer
+MA0006.severity = Hidden
 MA0051.maximum_statements_per_method = 40
 MA0051.skip_local_functions = false
 MA0051.maximum_lines_per_method = 60
