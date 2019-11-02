@@ -230,6 +230,9 @@ dotnet_naming_symbols.all_members.applicable_kinds = *
 
 dotnet_naming_style.pascal_case_style.capitalization = pascal_case
 
+# IDE Analyzer
+dotnet_diagnostic.IDE0005.severity = suggestion
+
 # Meziantou Analyzer
 MA0006.severity = Hidden
 MA0051.maximum_statements_per_method = 40
